@@ -6,6 +6,7 @@ Code of SDNet: A Versatile Squeeze-and-Decomposition Network for Real-Time Image
   title={SDNet: A Versatile Squeeze-and-Decomposition Network for Real-Time Image Fusion},
   author={Zhang, Hao and Ma, Jiayi},
   journal={International Journal of Computer Vision},
+  pages={1--25},
   year={2021},
   publisher={Springer}
 }
